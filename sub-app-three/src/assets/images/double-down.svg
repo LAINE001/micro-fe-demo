@@ -1,0 +1,21 @@
+<svg id="Icons-_-Navigation-_-Angle-double-down" data-name="Icons-/-Navigation-/-Angle-double-down" xmlns="http://www.w3.org/2000/svg" width="17.227" height="17.227" viewBox="0 0 17.227 17.227">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #1c5db5;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <path id="Shape" class="cls-1" d="M0,0H17.227V17.227H0Z"/>
+  <path id="Path-94" class="cls-2" d="M.21,1.225A.718.718,0,0,1,1.225.21L5.532,4.517a.718.718,0,0,1,.022.993L1.606,9.816a.718.718,0,1,1-1.058-.97l3.483-3.8Z" transform="translate(13.638 3.23) rotate(90)"/>
+  <path id="Path-94-2" data-name="Path-94" class="cls-3" d="M1.225,5.532A.718.718,0,0,1,.21,4.517L4.517.21A.718.718,0,0,1,5.51.189L9.816,4.137a.718.718,0,0,1-.97,1.058l-3.8-3.483Z" transform="translate(13.638 13.997) rotate(180)"/>
+</svg>
